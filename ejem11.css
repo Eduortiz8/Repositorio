@@ -1,0 +1,14 @@
+h3.center {
+    border: 2px;
+    color: tomato
+}
+
+p.center {
+    border: 2px;
+    color: dodgerblue
+}
+
+p.large {
+    border: 2px;
+    color: mediumseagreen;
+}
