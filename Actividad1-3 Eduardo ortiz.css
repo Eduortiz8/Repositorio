@@ -1,0 +1,30 @@
+h1.title {
+    border-bottom-style: solid;
+    border-color: blue;
+}
+
+h2.center {
+    border-style: solid;
+    border-color: gray;
+}
+
+ul.center {
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-color: red;
+}
+
+h2.center1 {
+    border-style: solid;
+    border-color: gray;
+}
+
+h2.center2 {
+    border-style: solid;
+    border-color: gray;
+}
+
+ul.center2 {
+    border-style: dashed;
+    border-color: green;
+}
