@@ -1,0 +1,10 @@
+body {
+    background-image: url(multimedia/imagenes/oveja.PNG);
+    background-repeat: repeat;
+    background-position: center center;
+    margin-right: 200px;
+}
+
+#p1 {
+    color: red;
+}

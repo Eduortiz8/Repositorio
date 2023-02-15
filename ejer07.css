@@ -1,8 +1,9 @@
 #p1 {
+    color: #ffff;
     background-color: rgb(128, 128, 128);
 }
 
-#p2 {
+div {
     color: #7695cd;
     background-color: rgb(208, 254, 179);
 }

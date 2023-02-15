@@ -1,0 +1,15 @@
+h1 {
+    margin: auto;
+    width: 300px;
+    background-color: aqua;
+}
+
+#p1 {
+    padding: 25px 50px;
+    background-color: aqua;
+}
+
+#p2 {
+    padding: 50px;
+    background-color: aqua;
+}

@@ -1,0 +1,10 @@
+body {
+    background-image: url(multimedia/imagenes/oveja.PNG);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+#p1 {
+    color: red;
+}
