@@ -1,0 +1,16 @@
+div {
+    background-color: gray;
+    border: 15px solid rgb(171, 167, 167);
+    border-width: 15px 30px;
+    padding: 200px;
+    margin: 100px;
+    text-align: center;
+}
+
+div.a {
+    border: none;
+    text-align: center;
+    margin: 50px;
+    background-color: rgba(211, 208, 208, 0.8);
+    padding-top: 3px;
+}

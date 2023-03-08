@@ -1,0 +1,39 @@
+div.d {
+    outline-style: solid;
+    padding: 20px;
+}
+
+div.a {
+    outline-style: solid;
+    background-color: rgb(60, 200, 232);
+    width: 700px;
+    padding: 1px;
+    z-index: 1;
+}
+
+div.b {
+    outline-style: solid;
+    background-color: orange;
+    color: black;
+    width: 700px;
+    padding: 1px;
+}
+
+div.c {
+    position: absolute;
+    left: 800px;
+    top: 110px;
+    outline-style: solid;
+    background-color: green;
+    color: black;
+    width: 700px;
+    padding: 1px;
+}
+
+div.e {
+    outline-style: solid;
+    background-color: rgb(60, 200, 232);
+    width: 700px;
+    padding: 1px;
+    z-index: 1;
+}
