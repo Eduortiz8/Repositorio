@@ -1,0 +1,24 @@
+#p1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    background-color: #eddddd;
+}
+
+#p2 {
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    background-color: #e8d937;
+}
+
+#p3 {
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #f5c1b5;
+}
+
+#p4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    background-color: #fde2fd;
+}

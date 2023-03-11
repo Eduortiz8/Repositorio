@@ -1,26 +1,12 @@
-div.d {
-    outline-style: solid;
-    padding: 50px;
-}
-
-div.a {
-    background-color: gray;
-    border: 15px none rgb(171, 167, 167);
-    border-width: 50px 60px;
-    padding: 500px;
-    margin: 100px;
-    text-align: center;
-}
-
-div.b {
-    border: none;
-    background-color: #bababc;
-    background-position: 50% 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 500px;
+div {
+    background-color: grey;
+    padding-top: 10px;
+    padding-left: 50px;
     height: 500px;
-    padding: 50px;
-    margin: 15px;
+}
+
+p {
+    display: block;
+    background-color: lightgrey;
+    position: relative;
 }
